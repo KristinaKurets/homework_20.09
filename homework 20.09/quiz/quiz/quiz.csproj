@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\guessing-game_2\guessing-game_2\guessing-game_2.csproj" />
+    <ProjectReference Include="..\..\guessing_game_1\guessing_game_1\guessing_game_1.csproj" />
+    <ProjectReference Include="..\..\riddles\riddles\riddles.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "quiz/1.0.0": {
+        "dependencies": {
+          "guessing-game_2": "1.0.0",
+          "guessing_game_1": "1.0.0",
+          "riddles": "1.0.0"
+        },
+        "runtime": {
+          "quiz.dll": {}
+        }
+      },
+      "guessing-game_2/1.0.0": {
+        "runtime": {
+          "guessing-game_2.dll": {}
+        }
+      },
+      "guessing_game_1/1.0.0": {
+        "runtime": {
+          "guessing_game_1.dll": {}
+        }
+      },
+      "riddles/1.0.0": {
+        "runtime": {
+          "riddles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "quiz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "guessing-game_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "guessing_game_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "riddles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

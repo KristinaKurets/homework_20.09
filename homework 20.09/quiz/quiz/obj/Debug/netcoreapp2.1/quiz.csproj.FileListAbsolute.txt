@@ -1,0 +1,36 @@
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\quiz.deps.json
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\quiz.runtimeconfig.json
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\quiz.runtimeconfig.dev.json
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\quiz.dll
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\quiz.pdb
+C:\Users\user\source\repos\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.csprojAssemblyReference.cache
+C:\Users\user\source\repos\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.AssemblyInfo.cs
+C:\Users\user\source\repos\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.dll
+C:\Users\user\source\repos\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.pdb
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\riddles.dll
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\riddles.pdb
+C:\Users\user\source\repos\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.csproj.CopyComplete
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\guessing_game_1.dll
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\guessing_game_1.pdb
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\guessing-game_2.dll
+C:\Users\user\source\repos\quiz\quiz\bin\Debug\netcoreapp2.1\guessing-game_2.pdb
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\quiz.deps.json
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\quiz.runtimeconfig.json
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\quiz.runtimeconfig.dev.json
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\quiz.dll
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\quiz.pdb
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\guessing-game_2.dll
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\guessing_game_1.dll
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\riddles.dll
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\guessing-game_2.pdb
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\guessing_game_1.pdb
+C:\Users\user\source\homework 20.09\quiz\quiz\bin\Debug\netcoreapp2.1\riddles.pdb
+C:\Users\user\source\homework 20.09\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.csprojAssemblyReference.cache
+C:\Users\user\source\homework 20.09\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.csproj.CoreCompileInputs.cache
+C:\Users\user\source\homework 20.09\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.AssemblyInfoInputs.cache
+C:\Users\user\source\homework 20.09\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.AssemblyInfo.cs
+C:\Users\user\source\homework 20.09\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.csproj.CopyComplete
+C:\Users\user\source\homework 20.09\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.dll
+C:\Users\user\source\homework 20.09\quiz\quiz\obj\Debug\netcoreapp2.1\quiz.pdb
